@@ -1,0 +1,15 @@
+Ordenanza Nº13178/19
+Ordenanza Nº 13178/19
+Quilmes, 25/04/2019
+VISTO que el Honorable Concejo Deliberante, en actuaciones tramitadas bajo el Nº de Expediente 4091-20139-O-17 ha sancionado la Ordenanza Nº 13178/19 en la Sesión Ordinaria del día 9 de abril de 2019, que dice:
+VISTO El Expte. Nº 4091-20139-O-17, Ref.: MANUELA JULIA OTERO Y ABEL IVAN LETTIERI, solicitan reservar un espacio de estacionamiento para discapacitados en la calzada frente a su domicilio sito en Olegario V. Andrade 870 de Bernal, y
+CONSIDERANDO:
+Que en el Expediente del Visto los solicitantes han adjuntado copia de los certificados de discapacidad de ambos, de sus Documentos Nacionales de Identidad, del Título Automotor del Vehiculo Volkswagen Gol Trend 1.6 dominio KFX 652, de la Licencia Nacional de Conducir del señor Lettieri y de los Certificados de uso de simbolos en automotores para personas con discapacidad de ambos;
+Que la Convención sobre los Derechos de las Personas con Discapacidad, ratificada por la República Argentina, reconoce que "la discapacidad es un concepto que evoluciona y que resulta de la interacciòn entre las personas con deficiencias y las barreras debidas a la actitud y al entorno que impiden su participaciòn plena y efectiva en la sociedad, en igualdad de condiciones con las demás";
+Que la Ley Nacional Nº 22.431 de Sistema de Protecciòn Integral de los Discapacitados (modificada por Ley Nº 24314) dispone en su Artículo 20º : "Establecese la prioridad de la supresiòn de barreras físicas en los ámbitos urbanos arquitectónicos y del transporte que se realicen o en los existentes que remodelen o sustituyan en forma total o parcial sus elementos constitutivos con el fin de lograr la accesibilidad para las personas con movilidad reducida..." . Asimismo el Inciso d) establece: "Estacionamientos: tendrán zonas reservadas y señalizadas para vehículos que transporten personas con movilidad reducida cercanas a los accesos peatonales";
+Que la Ley Provincial Nº 10.592 refiere en su Artículo 24º ter (Texto incorporado por Ley Nº 12614) Texto según Ley Nº 14824): "Las vías y espacios libres públicos deben permitir a las personas con movilidad reducida gozar de las adecuadas condiciones de seguridad y autonomía como elemento primordial para el desarrollo de las actividades de la vida diaria";
+Que es obligación del Municipio asegurar a la persona con discapacidad los mismos derechos que sus conciudadanos, para lo cual debe arbitrar los medios para eliminar las situaciones de desventaja que puedan encontrar en el ejercicio de sus derechos, mediante la adopciòn de medidas especifícas destinadas a equiparar oportunidades;
+Que a dichos efectos corresponde el dictado de normas, ante situaciones particulares, tendientes a facilitar espacios de estacionamiento para vehículos utillizados por persona con necesidades especiales motoras;
+Que resultan de aplicaciòn los Artículos 1º, 3º, 7º y concordantes de la Ordenanza nº 11.458;
+ORDENANZA
+EL HONORABLE CONCEJO DELIBERANTE, SANCIONA:
