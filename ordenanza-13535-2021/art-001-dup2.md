@@ -1,0 +1,1 @@
+ARTÍCULO 1°: PROMÚLGASE la Ordenanza Nº 13.535/2021 sancionada por el Honorable Concejo Deliberante, en la Sesión Ordinaria del día 12 de octubre del 2021.- ARTÍCULO 2°: DISPÓNESE que el presente Decreto será refrendado por el Sr. Jefe de Gabinete.-
