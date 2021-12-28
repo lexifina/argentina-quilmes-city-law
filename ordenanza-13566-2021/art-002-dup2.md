@@ -1,0 +1,1 @@
+ARTICULO 2°. La denominación "tributos" es genérica y comprende a las contribuciones, tasas, derechos, patentes y demás obligaciones que el Municipio establezca, dentro de los límites del Decreto Ley Nº 6769/58 - Ley Orgánica de las Municipalidades- y los principios constitucionales de la tributación.

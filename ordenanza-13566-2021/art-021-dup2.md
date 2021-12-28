@@ -1,0 +1,1 @@
+ARTÍCULO 21O. En los casos de reducción de marcas por los acopiadores o criadores cuando posean marca de venta, . el duplicado del permiso de marcación deberá ser agregado a la guía de traslado o al certificado de venta.

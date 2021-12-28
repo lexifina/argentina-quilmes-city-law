@@ -1,0 +1,1 @@
+ARTICULO 3°. Las normas tributarias municipales se considerarán vigentes y obligatorias, de acuerdo a lo dispuesto en el artículo 5° del Código Civil y Comercial de la Nación. El medio de publicación oficial será el Boletín Oficial Municipal, y los canales electrónicos de publicidad normativa que establezca el Departamento Ejecutivo.
