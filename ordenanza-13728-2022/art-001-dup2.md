@@ -1,0 +1,1 @@
+ARTÍCULO 1°: PROMÚLGASE la Ordenanza Nº 13.728/2022 sancionada por el Honorable Concejo Deliberante, en la Sesión Extraordinaria del día 25 de Octubre del 2022.-ARTÍCULO 2°: DISPÓNESE que el presente Decreto será refrendado por el Sr. Jefe de Gabinete.-
