@@ -1,0 +1,1 @@
+ARTÍCULO 1°: PROMÚLGASE la Ordenanza Nº 13.901/2023, sancionada por el Honorable Concejo Deliberante, en la Sesión Extraordinaria del día 14 de Julio de 2023.-ARTÍCULO 2°: DISPÓNESE que el presente Decreto será refrendado por el Sr. Jefe de Gabinete.-
