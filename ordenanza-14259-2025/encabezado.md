@@ -1,0 +1,30 @@
+Ordenanza Nº14259/2025
+Ordenanza Nº 14259/2025
+Quilmes, 20/03/2025
+VISTO: el Expediente N° HCD-O-2-30379-2025; y
+CONSIDERANDO:
+Que el Honorable Concejo Deliberante, en actuaciones tramitadas bajo el expediente referido, ha sancionado la Ordenanza Nº 14.259/2025 en la Sesión Ordinaria del día 11 de Marzo del 2025, cuyo texto expresa:
+VISTO:
+El Expediente Nº 2-30379-HCD-2025, Presentado por las y los Concejales EVA MIERI, EZEQUIEL ARAUZ, MARIANO CASADO, JOSE LUIS CONTRERAS, FEDERICO D´ANGELO, FLORENCIA ESTECHE, EVELIN GIANCRISTOFORO, FLORENCIA HERNANDEZ, GABRIEL IBARRA, KARINA JARA, MARIA BELEN MARON, ROSALINA MENDOZA. Ref.: Las funciones de teatro y acciones culturales, políticas y sociales llevadas adelante por el Grupo “Teatro por la Identidad Quilmes” con el objetivo de mantener viva la Memoria de los 30.000 detenidos-desaparecidos, visibilizar la Verdad desde el arte y luchar por la Justicia que merece nuestra historia, y
+CONSIDERANDO:
+Que la Resolución Nº 3/2019 de la Comisión Interamericana de Derechos Humanos (CIDH) sostiene: "...que las políticas públicas de memoria se encuentran inscriptas en las obligaciones estatales de provisión de verdad, justicia, reparación y medidas de no repetición de las graves violaciones a los derechos humanos".
+Que el Artículo 75°, Inciso 22) de la Constitución Nacional dice: "Los tratados y concordatos tienen jerarquía superior a las Leyes. La Declaración Americana de los Derechos y Deberes del Hombre; la Declaración Universal de Derechos Humanos; la Convención Americana sobre Derechos Humanos; el Pacto Internacional de Derechos Económicos, Sociales y Culturales; el Pacto Internacional de Derechos Civiles y Políticos y su Protocolo Facultativo; la Convención sobre la Prevención y la Sanción del Delito de Genocidio; la Convención Internacional sobre la Eliminación de todas las Formas de Discriminación Racial; la Convención sobre la Eliminación de todas las Formas de Discriminación contra la Mujer; la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes; la Convención sobre los Derechos del Niño; en las condiciones de su vigencia, tienen jerarquía constitucional, no derogan Artículo alguno de la Primera Parte de esta Constitución y deben entenderse complementarios de los derechos y garantías por ella reconocidos".
+Que se entiende por memoria a las formas en que las personas y los pueblos construyen sentido y relacionan el pasado con el presente en el acto de recordar respecto de graves violaciones a los Derechos Humanos y/o de las acciones de las víctimas y sociedad civil en la defensa y promoción de los Derechos Humanos y valores democráticos en tales contextos.
+Que Abuelas de Plaza de Mayo siguen buscando a más de cuatrocientos nietos y nietas que fueron apropiados durante la última dictadura cívico militar en Argentina, a quienes todavía no han podido restituir su identidad.
+Que es deber del Estado fomentar el reconocimiento público de los hechos y de su responsabilidad por las graves violaciones a los Derechos Humanos ocurridas en nuestro Distrito.
+Que la Gestión de la Intendenta Mayra Mendoza es impulsora y defensora de las políticas públicas de Memoria, Verdad y Justicia.
+Que, en 2020 Mayra Mendoza como Intendenta de Quilmes recibió las llaves del ex Pozo Quilmes convirtiéndose este lugar que fue testigo de la tortura y el exterminio de miles de personas, en un Sitio para la Memoria que hoy alberga la frescura, el amor y la historia de quienes lo transitan construyendo memoria viva de los 30.000 detenidos-desaparecidos.
+Que el “Teatro por la Identidad Quilmes” nace en el 2023 en el seno del grupo de artistas locales tomando el ejemplo de Teatro por la Identidad (nacido en el año 2000) y experiencias similares que les precedieron en el Distrito.
+Que la formación de “Teatro por la Identidad Quilmes” recibió la invalorable adhesión de Abuelas de Plaza de Mayo y de Teatro por la Identidad Nacional.
+Que es un nuevo aporte del campo de la cultura para colaborar con la lucha de Abuelas y una forma de reivindicar la defensa de los derechos humanos en una coyuntura desfavorable.
+Que “Teatro por la Identidad Quilmes” forma parte del Proyecto “Gestión de Proyectos Culturales Autogestivos” del Programa Construyendo Redes Emprendedoras en Economía Social e Integración social, Comunidad de aprendizajes, Tecnologías para la inclusión social y Arte comunitario (CREES -ICOTEA) de Extensión Universitaria de la Universidad Nacional de Quilmes.
+Que el Colectivo “Teatro por la Identidad Quilmes” ha realizado durante el año 2024 más de cien funciones en escuelas, salas de teatro y otros espacios comunitarios de todo el Distrito.
+Que dichas funciones han sido declaradas de Interés Educativo por el Honorable Consejo Escolar de Quilmes.
+Que “Nanas para encontrarte”, alterna canciones y monólogos, en una puesta emotiva que propone despertar la duda y fortalecer la memoria en momentos en que el negacionismo amenaza con la peor cara del horror.
+Que todas las presentaciones de esta obra se han llevado a cabo de manera gratuita contando con la participación de vecinas, vecinos, estudiantes secundarios, primarios y universitarios del Distrito.
+Que Graciela Schtutman, integrante de “Teatro por la Identidad Quilmes” recibió en Noviembre de 2024 la Distinción Isabel Pallamay, Ordenanza Nº 14145/24, Resolución Nº 14599/23 del Honorable Concejo Deliberante de Quilmes.
+Que ante las políticas de negacionismo llevadas a cabo por el Gobierno Nacional, es menester, apoyar todas las prácticas que permitan mantener los logros que se sintetizan en los acuerdos alcanzados por nuestra Sociedad respecto de lo ocurrido durante la última dictadura cívico-militar: en aquellos años se cometieron crímenes de lesa humanidad, que son imprescriptibles, que deben ser juzgados y que no pueden repetirse.
+Que defender estos acuerdos resulta imperioso para continuar defendiendo la Democracia que tanto costó recuperar y consolidar.
+ORDENANZA
+EL HONORABLE CONCEJO DELIBERANTE, SANCIONA
+ORDENANZA Nº 14259/2025
