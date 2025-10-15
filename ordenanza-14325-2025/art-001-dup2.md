@@ -1,0 +1,1 @@
+ARTÍCULO 1°: PROMÚLGASE la Ordenanza Nº 14.325/2025, sancionada por el Honorable Concejo Deliberante, en la Sesión Ordinaria del día 9 de Septiembre de 2025.-ARTÍCULO 2°: DISPÓNESE que el presente Decreto será refrendado por el Sr. Jefe de Gabinete.-
