@@ -1,0 +1,26 @@
+Ordenanza Nº14561/2026
+Ordenanza Nº 14561/2026
+Quilmes, 31/08/2026
+VISTO: el Expediente HCD-O-2-31015-2026; y
+CONSIDERANDO:
+Que el Honorable Concejo Deliberante, en actuaciones tramitadas bajo el expediente referido, ha sancionado la Ordenanza Nº 14.561/2026 en la Sesión Ordinaria del dia 25 de Agosto del 2026, cuyo texto expresa:
+VISTO:
+Expediente Nº 2-31015-HCD-2026, presentado por las y los
+Concejales KARINA JARA, LORENA AGUIRRE, EZEQUIEL ARAUZ, RAMON ARCE, FLORENCIA BAEZ BREZOVEC, VANINA CAMPORA, GABRIEL FIORI, FLORENCIA HERNANDEZ, GABRIEL IBARRA, BERENICE LATORRE DE CARO,
+MARI LUZ MENDOZA SOTO, EVA TORRES. Ref.: La plazoleta ubicada en Avenida Cervantes y la Av. Otamendi de La Ribera de Quilmes, donde se encuentra emplazado el monumento al Almirante Guillermo Brown, figura central de la historia naval argentina y uno de los grandes próceres de la independencia sudamericana, y
+CONSIDERANDO:
+Que el Combate Naval de Qui/mes fue un enfrentamiento bélico de gran relevancia histórica que tuvo lugar en las aguas del Río de La Plata, frente a las costas de Quilmes, el 29 y 30 de julio de 1826.
+Que este combate se enmarcó en la Guerra del Brasil (1825-1828), conflicto en el que las Provincias Unidas del Río de La Plata defendieron su soberanía e integridad territorial frente al Imperio del Brasil.
+Que en dicha jornada, la escuadra al mando del Almirante Guillermo Brown, compuesta por la fragata 25 de Mayo y otras naves menores, se enfrentó heroicamente a una fuerza imperial de superioridad numérica y de fuego y, que a pesar de la desigualdad de fuerzas, la nave capitana se negó a rendir su pabellón, convirtiéndose en un símbolo de la resistencia y el honor argentino.
+Que la gesta marítima del 30 de julio de 1826 es uno de los hitos más gloriosos de la Armada Argentina, donde los marinos patriotas demostraron un valor sin par, destacándose las figuras del Almirante Guillermo Brown, el Comandante Tomás Espora y el Comandante Leonardo Rosales, en cuya memoria quedaron grabadas las palabras de Brown: "No conozco más valientes que Brown, Espora y Rosales".
+Que el Almirante Guillermo Brown es una figura central de la historia naval argentina y uno de los grandes próceres de la Independencia Sudamericana. Nacido en Irlanda en 1777 y radicado en el Río de La Plata desde joven, supo identificarse plenamente con la causa patriota, forjando una escuadra prácticamente desde la nada y conduciéndola a victorias decisivas que aseguraron la soberanía de las Provincias Unidas.
+Que en el Combate de Quilmes, el Almirante Guillermo Brown demostró una vez más su temple de acero: herido, con su nave capitana prácticamente destrozada y abandonado por gran parte de su escuadra, se negó a rendirse, trasladó su insignia a otro buque y continuó la lucha, encarnando el espíritu de resistencia. Sin ser nativo de estas tierras, entregó su vida y su talento a la defensa de la libertad y la dignidad de la Patria, convirtiéndose en un símbolo perdurable de coraje y patriotismo.
+Que la conmemoración del Bicentenario de este acontecimiento constituye una oportunidad ineludible para revalorizar el patrimonio histórico de la Ciudad de Quilmes y de la Nación, así como para transmitir a las nuevas generaciones los valores cívicos y patrióticos que guiaron a los héroes de la patria.
+Que la Ciudad de Quilmes es la segunda ciudad más antigua de la Provincia de Buenos Aires y, este año celebra el 360º Aniversario de su fundación, por lo tanto, su Historia se encuentra atravesada por los grandes e importantes conflictos bélicos, sociales y políticos que determinaron el proceso de construcción de la Nación.
+Que los objetivos institucionales de la Dirección General de Relaciones Institucionales e Internacionales del Municipio de Quilmes, a través del Consejo Consultivo de Patrimonio, Identidades Quilmeñas y Memoria, una Mesa de Trabajo conjunta entre la gestión municipal, el Honorable Concejo Deliberante y las diversas Instituciones Culturales e Históricas de la Ciudad, incluyen la promoción de la identidad local, la difusión de la historia argentina y la organización de eventos que fortalezcan el sentido de pertenencia de la Comunidad.
+Que la Ordenanza Nº 13758/22 dispone entre otras normativas, que las nuevas designaciones para las calles, avenidas, pasajes y arterias de todo tipo del Distrito de Quilmes, como el cambio de nombre de las actuales arterias por nuevas denominaciones se fundará en sólidas razones institucionales, históricas o culturales, y el Artículo 3° determina que los nombres que se impongan a las calles deberán estar directamente relacionados con el Partido de Quilmes, o bien revertir una importancia indiscutida en el orden Nacional o Universal.
+Que por todo lo sostenido hasta aquí, adquiere importancia histórica, cultural y simbólica que el nombre Combate Naval de Qui/mes se haga parte de la vida cotidiana de quienes habitamos la Ciudad, como forma de revalorizar la historia y el Patrimonio Histórico de la Ciudad de Quilmes y de la Nación.
+Que según lo informado por la Subsecretaria de ARQUI, Dirección General de Rentas y Catastro a fojas 6 del presente Expediente, la Plazoleta carece de Nomenclatura Catastral y no se encuentra registrada bajo ninguna denominación oficial.
+ORDENANZA
+EL HONORABLE CONCEJO DELIBERANTE, SANCIONA
+ORDENANZA Nº 14561/2026
