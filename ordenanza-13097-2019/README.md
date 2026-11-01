@@ -1,0 +1,12 @@
+# Ordenanza 13097/2019: la donación realizada por la Fundación Hospital de Pediatría Profesor Dr. Juan P. Garrahan, de un Respirador NV GRAPHNET ADVANCE NACIONAL Nº 16 12 4 048 1081 A1V, cuyo valor estimado asciende a la suma de $ 224.641,00 (p
+
+Ordenanza 13097/2019 · 1 versions, from 2019-02-13 (latest in force: 2019-02-13) · <https://sibom.slyt.gba.gob.ar/bulletins/1843/contents/1292721>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo 1 | [art-001.md](art-001.md) | 0 |  |
+| Artículo 1 (2) | [art-001-dup2.md](art-001-dup2.md) | 0 |  |
+| Artículo 2 | [art-002.md](art-002.md) | 0 |  |
+| Artículo 2 (2) | [art-002-dup2.md](art-002-dup2.md) | 0 |  |
+| Artículo 3 | [art-003.md](art-003.md) | 0 |  |
+| Encabezado | [encabezado.md](encabezado.md) | 0 |  |

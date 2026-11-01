@@ -215,20 +215,80 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ordenanza-14573-2026` | Ordenanza 14573/2026: DECLÁRASE de Interés Cultural, Social y Municipal del Partido de Quilmes al libro "Marrón Cabeza", de autoría del escritor Walter Lezcano editado en el año 2026 por Emecé (Planeta). | 1 | 2026-09-26 to 2026-09-26 |
 | `ordenanza-14584-2026` | Ordenanza 14584/2026: OTÓRGASE la "DISTINCIÓN INDIO SOLARI" a la banda "Cordero Atado" en reconocimiento a su destacada labor, trayectoria e inquebrantable aporte a la cultura popular, la música y los valores artísticos de nuestro Distrito, e | 1 | 2026-10-16 to 2026-10-16 |
 | `ordenanza-14591-2026` | Ordenanza 14591/2026: MODIFICASE el Artículo 6º de la Ordenanza Nº 12656/2016, el que quedará redactado de la siguiente manera: | 1 | 2026-10-16 to 2026-10-16 |
+| `ordenanza-12769-2017` | Ordenanza 12769/2017: DECLARASE de Interés Público, la pavimentación de la Calle 802 entre Av. Juan D. Perón y 895 de Quilmes Oeste. | 1 | 2017-11-08 to 2017-11-08 |
+| `ordenanza-12770-2017` | Ordenanza 12770/2017: AUTORIZASE la transmisión de dominio a título gratuito del bien designado Catastralmente como: Circunscripción I, Sección M, Manzana 68, Parcela 21a, el cual constituye excedentemente fiscal por plano 86-94-2016, de acue | 1 | 2017-11-08 to 2017-11-08 |
+| `ordenanza-12777-2017` | Ordenanza 12777/2017: ACEPTASE la donación realizada por el Ministerio de Salud de la Provincia de Buenos Aires, de un Electrocardiógrafo de 12 Canales, Marca Shiller, Mod AT-101,con Conexión de Puerto Lan, y Análisis de Interpretación Serie  | 1 | 2017-11-22 to 2017-11-22 |
+| `ordenanza-12781-2017` | Ordenanza 12781/2017: ADHIERASE la Municipalidad de Quilmes a la Ley Nacional Nº 27351, que establece garantizar, en forma permanente y de manera gratuita, el suministro del servicio eléctrico en el domicilio de aquellas personas que lo requi | 1 | 2017-11-22 to 2017-11-22 |
+| `ordenanza-12785-2017` | Ordenanza 12785/2017: RECONOCESE el legítimo abono y autorízase el pago en favor de la persona e instituciones que se detalla a continuación, por deudas correspondientes al Ejercicio 2011 y que no fueran contabilizadas en su oportunidad: | 1 | 2017-11-22 to 2017-11-22 |
+| `ordenanza-12792-2017` | Ordenanza 12792/2017: CONVALIDASE el CONVENIO MODIFICATORIO DENOMINADO “LIMPIEZA DE LOS ARROYOS ALSINA Y LOMAS DE ZAMORA – CUENCA INFERIOR RIO DE LA PLATA” suscripto entre el Ministerio de Infraestructura y Servicios Públicos de la Provincia  | 1 | 2017-12-20 to 2017-12-20 |
+| `ordenanza-12800-2017` | Ordenanza 12800/2017: ACEPTASE la cesión sin cargo dispuesta por la Secretaría General de la Presidencia de la Nación a favor de este Municipio mediante Resoluciones Nº 404 y 390/2017-APN-SGP, según constancias obrantes en el Expediente Nº 40 | 1 | 2018-01-04 to 2018-01-04 |
+| `ordenanza-12803-2017` | Ordenanza 12803/2017: RECONOCESE el legítimo abono y autorízase el pago en favor de la persona que se detalla a continuación, por deudas correspondientes al Ejercicio 2015 y que no fueran contabilizadas en su oportunidad: | 1 | 2018-01-04 to 2018-01-04 |
+| `ordenanza-12817-2017` | Ordenanza 12817/2017: CONVALIDASE el CONVENIO MARCO DE ADHESION AL “PROGRAMA NACIONAL DE ASISTENCIA Y COLABORACION EN EL MARCO DE LA EMERGENCIA CLIMATICA” ENTRE EL MINISTERIO DE SEGURIDAD DE LA NACION Y EL MUNICIPIO DE QUILMES suscripto el 4  | 1 | 2018-01-04 to 2018-01-04 |
+| `ordenanza-12846-2018` | Ordenanza 12846/2018: ADHIERASE la Municipalidad de Quilmes a la Ley Nº14.984/17 promulgada por Decreto Nº 797/17 del Régimen Provincial de Responsabilidad Fiscal, modificatoria de la Ley Nº 13.295. | 1 | 2018-03-14 to 2018-03-14 |
+| `ordenanza-13093-2019` | Ordenanza 13093/2019: en el Partido de Quilmes el “PROGRAMA DE DETECCION TEMPRANA DE PERSONAS CON TRASTORNO GENERALIZADO DEL DESARROLLO O TRASTORNO DEL ESPECTRO AUTISTA (T.G.D.-T.E.A.)”.- | 1 | 2019-02-13 to 2019-02-13 |
+| `ordenanza-13094-2019` | Ordenanza 13094/2019: el Convenio de Colaboración entre Provincia Microempresas S.A. y el Municipio de Quilmes, celebrado el 15 de Noviembre de 2018, registrado bajo el Nº 0399/18. | 1 | 2019-02-13 to 2019-02-13 |
+| `ordenanza-13097-2019` | Ordenanza 13097/2019: la donación realizada por la Fundación Hospital de Pediatría Profesor Dr. Juan P. Garrahan, de un Respirador NV GRAPHNET ADVANCE NACIONAL Nº 16 12 4 048 1081 A1V, cuyo valor estimado asciende a la suma de $ 224.641,00 (p | 1 | 2019-02-13 to 2019-02-13 |
+| `ordenanza-13125-2019` | Ordenanza 13125/2019: AUTORIZASE al Sr. JORGE BENJAMIN CARABAJAL con DNI Nº 33.569.181 a ocupar el kiosco refugio ubicado en Carlos Pellegrini y Avenida La Plata de Quilmes, según las reglamentaciones vigentes. | 1 | 2019-02-13 to 2019-02-13 |
+| `ordenanza-13128-2019` | Ordenanza 13128/2019: DISPONGASE la apertura del Registro establecido en el Artículo 1° de la Ordenanza Nº 12659/16, y c.c. DENOMINADO “REGISTRO DE MEJORAS NO DECLARADAS INCORPORADAS A LOS INMUEBLES” exclusivamente para viviendas familiares y | 1 | 2019-02-13 to 2019-02-13 |
+| `ordenanza-13139-2019` | Ordenanza 13139/2019: CONVALIDASE el Convenio de Permiso de Uso de dos espacios pertenecientes a un inmueble suscripto con la Agencia de Administración de Bienes del Estado, con fecha 24 de abril de 2018 y que fuera registrado bajo el N° 0378 | 1 | 2019-05-29 to 2019-05-29 |
+| `ordenanza-13170-2019` | Ordenanza 13170/2019: PROHIBASE el estacionamiento sobre ambas manos de la calle General Manuel Savio, entre las Avenidas Calchaquí y General Mosconi. | 1 | 2019-06-22 to 2019-06-22 |
+| `ordenanza-13178-2019` | Ordenanza 13178/2019: RESERVESE un espacio para estacionamiento exclusivo para discapacitados frente al domicilio sito en Olegario V. Andrade 870 de Bernal, para su uso por parte de los señores Manuela Julia Otero y/o Abel Ivan Lettieri, de c | 1 | 2019-06-22 to 2019-06-22 |
+| `ordenanza-13181-2019` | Ordenanza 13181/2019: AUTORIZASE la ocupacion de la Avenida Carlos Pellegrini entre Avenida Vicente Lopez y Aristobulo del Valle de Quilmes Oeste, para la realizacion de la actividad "Muestras de Fotografias y Libros de Evita", el dia 24 de M | 1 | 2019-06-22 to 2019-06-22 |
+| `ordenanza-13579-2022` | Ordenanza 13579/2022: CONVALÍDASE el Convenio Marco de Cooperación suscripto entre la Municipalidad de Quilmes y el Colegio de Arquitectos de la Provincia de Buenos Aires con fecha 1° de noviembre de 2021 registrado bajo el Nro. 853/2021.- | 1 | 2022-03-18 to 2022-03-18 |
+| `ordenanza-13584-2022` | Ordenanza 13584/2022: ACEPTASE la donación realizada de (1) Motomochila Marca:..................... Sthil Modelo SR 420 serie Nº 367 227 562 cuyo valor estimado asciende a$ 40.000 (pesos cuarenta mil). | 1 | 2022-05-20 to 2022-05-20 |
+| `ordenanza-13586-2022` | Ordenanza 13586/2022: ACÉPTASE la donación realizada por el Banco Galicia S.A, de..................... cuarenta y siete (47) Oxímetros de Pulso YK 80C; setenta y cinco (75) Estetoscopios Simple MCM; setenta y cinco (75) Termómetros Digital Et | 1 | 2022-05-20 to 2022-05-20 |
+| `ordenanza-13587-2022` | Ordenanza 13587/2022: DECLARASE de Interés Social y Cultural la actividad que..................... desempeña la "Cooperativa de Trabajo Soluciones Flexibles Limitada" en la Ciudad de Quilmes. | 1 | 2022-05-20 to 2022-05-20 |
+| `ordenanza-13589-2022` | Ordenanza 13589/2022: ESTABLEZCASE la denominación "Héroes de Malvinas" al...................... recinto del Honorable Concejo Deliberante de Quilmes . | 1 | 2022-05-20 to 2022-05-20 |
+| `ordenanza-13599-2022` | Ordenanza 13599/2022: RECONÓCESE el legítimo abono y autorízase el pago a las..................... personas e Instituciones que se detallan a continuación, por deudas correspondientes al Ejercicio 2020 que no fuera contabilizada en su oportun | 1 | 2022-05-20 to 2022-05-20 |
+| `ordenanza-13601-2022` | Ordenanza 13601/2022: ADHIÉRASE a lo dispuesto por la Ley Provincial Nº 15.230,.. .. .. .. . . .. . .. .. . .. . sancionada por la Honorable Legislatura de la Provincia de Buenos Aires en la Sesión del 22 de Diciembre del año 2020, y su Decre | 1 | 2022-05-20 to 2022-05-20 |
+| `ordenanza-13611-2022` | Ordenanza 13611/2022: MODIFÍCASE el Artículo 8° de la Ordenanza Nº 12.072/2013, el..................... que quedará redactado de la siguiente manera: | 1 | 2022-07-01 to 2022-07-01 |
+| `ordenanza-13612-2022` | Ordenanza 13612/2022: DENOMINASE a la plaza ubicada en Ayacucho y Chaco con el..................... nombre "Julián Satrini.", ubicado en la asignación catastral: Circunscripción 11- Sección J- Fracción 1- Parcelas: 2a-3a-5b-5c. | 1 | 2022-07-01 to 2022-07-01 |
+| `ordenanza-13617-2022` | Ordenanza 13617/2022: CONVALIDASE CONVENIO INSTITUCIONAL DE PASANTÍAS..................... suscripto entre la Municipalidad de Quilmes y el Centro Psicosocial Argentino, registrado bajo el Nº 0148 con fecha del 29 de marzo del año 2022.- | 1 | 2022-07-01 to 2022-07-01 |
+| `ordenanza-13620-2022` | Ordenanza 13620/2022: RECONÓCESE el legítimo abono y autorizase el pago de la persona e...................... instituciones que se detalla a continuación, por deudas correspondientes al Ejercicio 2017 que no fuera contabilizada en su oportuni | 1 | 2022-07-01 to 2022-07-01 |
+| `ordenanza-13624-2022` | Ordenanza 13624/2022: RECONOCESE el legítimo abono y autorízase el pago de las | 1 | 2022-08-10 to 2022-08-10 |
+| `ordenanza-13630-2022` | Ordenanza 13630/2022: AUTORIZASE la colocación de la Placa de Homenaje al pie del.................... Ombú de la Plaza del Maestro, sita entre las calles Carabelas, Deán Funes, Andrade e Independencia, en la Localidad de Bernal, en reconocimi | 1 | 2022-08-10 to 2022-08-10 |
+| `ordenanza-13685-2022` | Ordenanza 13685/2022: DECLÁRASE de Interés Cultural y Educativo la realización y......................celebración de la Décima Fiesta del Libro y La Revista que se llevará a cabo en la Universidad Nacional de Quilmes del 14 al 16 de Septiembr | 1 | 2022-10-15 to 2022-10-15 |
+| `ordenanza-13691-2022` | Ordenanza 13691/2022: ADHIÉRASE la Municipalidad de Quilmes a las disposiciones..................... de la Ley Nacional de Tránsito Nº 24.449, sus modificatorias y reglamentaciones vigentes. | 1 | 2022-10-15 to 2022-10-15 |
+| `ordenanza-13694-2022` | Ordenanza 13694/2022: PRESTASE el acuerdo previsto por el Artículo 21º del Decreto .Ley Nº 8751/77 “Código de Faltas Municipales”, para que la Señora Intendenta Municipal designe para el cargo de Jueza de Faltas Nº 4 del Partido de Quilmes, a | 1 | 2022-10-15 to 2022-10-15 |
+| `ordenanza-13695-2022` | Ordenanza 13695/2022: PRESTASE el acuerdo previsto por el Artículo 21º del Decreto Ley Nº 8751/77 “Código de Faltas Municipales”, para que la Señora Intendenta Municipal designe para el cargo de Jueza de Faltas Nº 5 del Partido de Quilmes, a  | 1 | 2022-10-15 to 2022-10-15 |
+| `ordenanza-13700-2022` | Ordenanza 13700/2022: DECLARASE de Interés Cultural y Municipal al Grupo Teatral y......................su espectáculo "Conurbano Maldito". | 1 | 2022-12-01 to 2022-12-01 |
+| `ordenanza-13711-2022` | Ordenanza 13711/2022: ACEPTASE la donación realizada por el Señor Acosta Héctor,.......................por un valor de Pesos ciento veinte mil ($ 120.000,00) de las siguientes obras: . | 1 | 2022-12-01 to 2022-12-01 |
+| `ordenanza-13712-2022` | Ordenanza 13712/2022: DECLARASE Patrimonio Natural y Cultural del Partido de........................ Quilmes, en los términos de lo establecido por la Ordenanza Nº 10.633/07, a los ejemplares de la especie "Naranjo amargo", ubicados en el égi | 1 | 2022-12-01 to 2022-12-01 |
+| `ordenanza-13713-2022` | Ordenanza 13713/2022: MODIFICASE el Artículo 3º PUNTO 13 de la Ordenanza Nº.....:................10395/06, que quedará redactado de la siguiente forma: | 1 | 2022-12-01 to 2022-12-01 |
+| `ordenanza-13714-2022` | Ordenanza 13714/2022: CONSIDERESE Autoridad de Aplicación de la presente..................... Ordenanza a la Secretaría de Desarrollo Económico. | 1 | 2022-12-01 to 2022-12-01 |
+| `ordenanza-13716-2022` | Ordenanza 13716/2022: RECONÓCESE el legítimo abono y autorizase el pago a las...............,.....personas e instituciones que se detallan a continuación, por deudas Correspondientes al Ejercicio 2021 que no fuera contabilizada en su oportuni | 1 | 2022-12-01 to 2022-12-01 |
+| `ordenanza-13724-2022` | Ordenanza 13724/2022: ESTABLECESE un reconocimiento "HISTORICO Y MORAL" para los ciudadanos quilmeños, que hayan sido soldados conscriptos bajo bandera como convocados y/o movilizados que sin haber participado en forma directa de las acciones | 1 | 2022-12-03 to 2022-12-03 |
+| `ordenanza-13725-2022` | Ordenanza 13725/2022: CONVÓCASE al Departamento Ejecutivo para que, a través del área que corresponda, facilite la colocación de baldosones memoriales a los Héroes de Nuestras Malvinas, en las aceras de los establecimientos educativos de Quil | 1 | 2022-12-03 to 2022-12-03 |
+| `ordenanza-13726-2022` | Ordenanza 13726/2022: DECLARASE de Interés Cultural y Municipal las Fiestas Religiosas del 8 de Diciembre de 2022 (Madre Oxúm) y del 2 de Febrero de 2023 (lemanjá). | 1 | 2022-12-03 to 2022-12-03 |
+| `ordenanza-13728-2022` | Ordenanza 13728/2022: DECLARASE de Interés Municipal al XII Foro Nacional Psico-Social, a realizarse en la Ciudad de Quilmes el día 29 de Octubre del corriente año en el horario de 9:00 hs. a 18:00 hs., en .las instalaciones de la Escuela de  | 1 | 2022-12-03 to 2022-12-03 |
+| `ordenanza-13744-2022` | Ordenanza 13744/2022: DENOMÍNASE "Jeremías Corso De Maestri" al Primer...................... Skatepark Municipal construido en el Parque de la Ciudad sito en las Avenidas Osear Smith y Vicente López, del Partido de Quilmes. | 1 | 2022-12-30 to 2022-12-30 |
+| `ordenanza-13746-2022` | Ordenanza 13746/2022: ACEPTASE la donación realizada por el Señor Vicente Pedace.................... D.N.I. 8.345.695 de varios objetos para ser afectados al Museo Histórico Regional Almirante Brown dependiente de la Secretaría de Culturas y  | 1 | 2022-12-30 to 2022-12-30 |
+| `ordenanza-13748-2022` | Ordenanza 13748/2022: ACEPTASE la donación realizada por la Señora Matilde...................... Robustelli D.N.I. 5.708.260 de varios objetos para ser afectados al Museo Histórico Regional Almirante Brown dependiente de la Secretaría de Cult | 1 | 2022-12-30 to 2022-12-30 |
+| `ordenanza-13757-2022` | Ordenanza 13757/2022: ACEPTASE la donación efectuada por lo$ vecinos del. Barrio..................... Los Eucaliptus de San Francisco Solano, de una escultura de María Eva Duarte, al celebrarse un nuevo Aniversario de su natalicio, para ser e | 1 | 2022-12-30 to 2022-12-30 |
+| `ordenanza-13761-2022` | Ordenanza 13761/2022: AUTORIZASE al Departamento Ejecutivo a instalar un _monolito. .. .. . .. .. . . ... . .. . .. conmemorativo en reconocimiento al 40 aniversario del conflicto bélico en las Islas Malvinas, Georgias del Sur y Sandwich del  | 1 | 2022-12-30 to 2022-12-30 |
+| `ordenanza-13763-2022` | Ordenanza 13763/2022: ADHIERASE el HONORABLE CONCEJO DELIBERANTE, a la..................... Ley Nacional Nº 26.858/2013, sancionada el 22 de 'mayo de 2013 y promulgada con fecha 10 de junio de 2013, que garantiza el "Derecho de Acceso, Deambu | 1 | 2022-12-30 to 2022-12-30 |
+| `ordenanza-13771-2022` | Ordenanza 13771/2022: CREASE el Programa "Quilmes Recicla" incluido en el Anexo 1....................... de la presente Ordenanza. | 1 | 2022-12-30 to 2022-12-30 |
+| `ordenanza-13793-2022` | Ordenanza 13793/2022: DECLARASE de Interés Cultural y Municipal el 150° Aniversario......................... de la Biblioteca Pública y . Municipal "Domingo Faustino Sarmiento" el día 8 de diciembre del corriente año. | 1 | 2023-01-08 to 2023-01-08 |
+| `ordenanza-13794-2022` | Ordenanza 13794/2022: DECLARASE al año 2023 como "AÑO DEL 40° ANIVERSARIO;....................... DELA RECUPERACIÓN DE LA DEMOCRACIA". | 1 | 2023-01-08 to 2023-01-08 |
+| `ordenanza-13802-2023` | Ordenanza 13802/2023: DESIGNASE al Sr. JUAN MANUEL LOPEZ GAGGIOTTI.................. D.N.I: 25.944.208 "Ciudadano Ilustre del Partido de Quilmes", en reconocimiento a su Labor y Trayectoria como Bombero Voluntario de la Localidad de Ezpeleta  | 1 | 2023-01-12 to 2023-01-12 |
+| `ordenanza-13809-2023` | Ordenanza 13809/2023: PRORROGASE la Apertura del REGISTRO DE MEJORAS NO................... DECLARADAS INCORPORADAS A LOS INMUEBLES previsto | 1 | 2023-01-12 to 2023-01-12 |
+| `ordenanza-13806-2023` | Ordenanza 13806/2023: MODIFICASE el Artículo 1º de la Ordenanza Nº 11881/12 el que ......................... quedará redactado de la siguiente manera: | 1 | 2023-02-12 to 2023-02-12 |
+| `ordenanza-13807-2023` | Ordenanza 13807/2023: ADHIÉRASE a la Ley Provincial Nº 13.744, modificada por Ley ……………….. Provincial Nº 14.792, de Creación y Funcionamiento de Agrupamientos Industriales.- | 1 | 2023-02-12 to 2023-02-12 |
+| `ordenanza-13812-2023` | Ordenanza 13812/2023: CONVALÍDASE el CONVENIO MARCO DE COLABORACIÓN ………………….. INSTITUCIONAL, suscripto entre el Municipio de Quilmes y la Fundación Banco de la Provincia de Buenos Aires, con fecha 31 de agosto de 2022, y que fuera registrado  | 1 | 2023-02-12 to 2023-02-12 |
 
-The build made 201 commits:
+The build made 261 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 201 | first version of an act |
+| 261 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-01.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 201 laws in the record.
-- 402 tags.
+- 261 laws in the record.
+- 522 tags.
 
 ## Dates
 
@@ -240,13 +300,13 @@ When a law gives no date of its own, the default rule applies: An ordinance take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `2ce70e95f712e4e6c1f9337810d54e06964fe4473a5297afc540f56f3f66ae1c` (1791507 bytes).
+- Corpus: sha256 `263e9f7422258d12e568b29711ea2fcc32f4010d4a8862b84fc6018c0d0c2173` (2165966 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-201 versions of 201 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

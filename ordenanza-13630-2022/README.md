@@ -1,0 +1,12 @@
+# Ordenanza 13630/2022: AUTORIZASE la colocación de la Placa de Homenaje al pie del.................... Ombú de la Plaza del Maestro, sita entre las calles Carabelas, Deán Funes, Andrade e Independencia, en la Localidad de Bernal, en reconocimi
+
+Ordenanza 13630/2022 · 1 versions, from 2022-08-10 (latest in force: 2022-08-10) · <https://sibom.slyt.gba.gob.ar/bulletins/7355/contents/1751881>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo 1 | [art-001.md](art-001.md) | 0 |  |
+| Artículo 1 (2) | [art-001-dup2.md](art-001-dup2.md) | 0 |  |
+| Artículo 2 | [art-002.md](art-002.md) | 0 |  |
+| Artículo 2 (2) | [art-002-dup2.md](art-002-dup2.md) | 0 |  |
+| Artículo 3 | [art-003.md](art-003.md) | 0 |  |
+| Encabezado | [encabezado.md](encabezado.md) | 0 |  |
