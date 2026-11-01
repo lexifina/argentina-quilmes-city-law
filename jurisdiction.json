@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-quilmes",
+  "code": "AR-B-QUILMES",
+  "name": "Quilmes",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-quilmes-city-law",
+  "build": "built: municipal ordinances (201 ordinances, 201 versions) from https://sibom.slyt.gba.gob.ar/cities/101",
+  "language": "es",
+  "sources": 1
+}
